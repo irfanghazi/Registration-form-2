@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Alaska",
+        "code": "AK",
+        "countryCode": "US"
+    },
+    {
+        "name": "Arizona",
+        "code": "AZ",
+        "countryCode": "US"
+    },
+
+    {
+        "name": "New York",
+        "code": "NY",
+        "countryCode": "US"
+    },
+    {
+        "name": "California",
+        "code": "CA",
+        "countryCode": "US"
+    },
+    {
+        "name": "Andhra Pradesh",
+        "code": "AP",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Karnataka",
+        "code": "KA",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Tamil Nadu",
+        "code": "TN",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Maharashtra",
+        "code": "MH",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Rajasthan",
+        "code": "RJ",
+        "countryCode": "IN"
+    },
+    {
+        "name": "England",
+        "code": "ENG",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Scotland",
+        "code": "SCT",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Wales",
+        "code": "WLS",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Northern Ireland",
+        "code": "NIR",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Kyiv",
+        "code": "KY",
+        "countryCode":"UA"
+    },
+    {
+        "name": "Lviv",
+        "code": "LV",
+        "countryCode":"UA"
+
+    },
+    {
+        "name": "Odessa",
+        "code": "OD",
+        "countryCode":"UA"
+    },
+    {
+        "name": "Kharkiv",
+        "code": "KH",
+        "countryCode":"UA"
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "name": "Tirupati",
+        "stateCode": "AP",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Vizag",
+        "stateCode": "AP",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Vijaywada",
+        "stateCode": "AP",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Kurnool",
+        "stateCode": "AP",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Banglore",
+        "stateCode": "KA",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Mysore",
+        "stateCode": "KA",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Hubbali",
+        "stateCode": "KA",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Chennai",
+        "stateCode": "TN",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Maduri",
+        "stateCode": "TN",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Salem",
+        "stateCode": "TN",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Mumbai",
+        "stateCode": "MH",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Nagpur",
+        "stateCode": "MH",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Thane",
+        "stateCode": "MH",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Jaipur",
+        "stateCode": "RJ",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Kota",
+        "stateCode": "RJ",
+        "countryCode": "IN"
+    },
+    {
+        "name": "Sawaimadhupur",
+        "stateCode": "RJ",
+        "countryCode": "IN"
+    },
+    {
+        "name": "London",
+        "stateCode": "ENG",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Manchester",
+        "stateCode": "ENG",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Leeds",
+        "stateCode": "ENG",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Edinburgh",
+        "stateCode": "SCT",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Glasgow",
+        "stateCode": "SCT",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Aberdeen",
+        "stateCode": "SCT",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Cardiff",
+        "stateCode": "WLS",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Swansea",
+        "stateCode": "WLS",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Newport",
+        "stateCode": "WLS",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Belfast",
+        "stateCode": "NIR",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Londonderry",
+        "stateCode": "NIR",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Newry",
+        "stateCode": "NIR",
+        "countryCode": "UK"
+    },
+    {
+        "name": "Pechersky",
+        "stateCode": "KY",
+        "countryCode": "UA"
+    },
+    {
+        "name": "Shevchenkivsky",
+        "stateCode": "KY",
+        "countryCode": "UA"
+    },
+    {
+        "name": "Holosiivsky",
+        "stateCode": "KY",
+        "countryCode": "UA"
+    },
+    {
+        "name": "Shevchenkivsky",
+        "stateCode": "LV",
+        "countryCode": "UA"
+    },
+    {
+        "name": "Halytsky",
+        "stateCode": "LV",
+        "countryCode": "UA"
+    },
+    {
+        "name": "Sykhivsky",
+        "stateCode": "LV",
+        "countryCode": "UA"
+    },
+    {
+        "name": "Primorsky",
+        "stateCode": "OD",
+        "countryCode": "UA"
+    },
+    {
+        "name": "Malinovsky",
+        "stateCode": "OD",
+        "countryCode": "UA"
+    },
+    {
+        "name": "Suvorovsky",
+        "stateCode": "OD",
+        "countryCode": "UA"
+    },
+    {
+        "name": "Shevchenkivsky",
+        "stateCode": "KH",
+        "countryCode": "UA"
+    },
+    {
+        "name": "Saltivsky",
+        "stateCode": "KH",
+        "countryCode": "UA"
+    },
+    {
+        "name": "Nemyshlyansky",
+        "stateCode": "KH",
+        "countryCode": "UA"
+    },
+    {
+        "name": "Anchorage",
+        "stateCode": "AK",
+        "countryCode": "US"
+    },
+    {
+        "name": "Fairbanks",
+        "stateCode": "AK",
+        "countryCode": "US"
+    },
+    {
+        "name": "Juneau",
+        "stateCode": "AK",
+        "countryCode": "US"
+    },
+    {
+        "name": "Phoenix",
+        "stateCode": "AZ",
+        "countryCode": "US"
+    },
+    {
+        "name": "Tucson",
+        "stateCode": "AZ",
+        "countryCode": "US"
+    },
+    {
+        "name": "Mesa",
+        "stateCode": "AZ",
+        "countryCode": "US"
+    },
+    {
+        "name": "New York City",
+        "stateCode": "NY",
+        "countryCode": "US"
+    },
+    {
+        "name": "Buffalo",
+        "stateCode": "NY",
+        "countryCode": "US"
+    },
+    {
+        "name": "Rochester",
+        "stateCode": "NY",
+        "countryCode": "US"
+    },
+    {
+        "name": "Los Angeles",
+        "stateCode": "CA",
+        "countryCode": "US"
+    },
+    {
+        "name": "San Francisco",
+        "stateCode": "CA",
+        "countryCode": "US"
+    },
+    {
+        "name": "San Diego",
+        "stateCode": "CA",
+        "countryCode": "US"
+    }
+]
